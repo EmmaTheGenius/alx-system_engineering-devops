@@ -1,0 +1,2 @@
+#!/bin/bash
+perl -E 'say for grep {!/oo/} map {$_.$_} "a".."z";'
