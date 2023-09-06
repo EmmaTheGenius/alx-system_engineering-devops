@@ -1,0 +1,2 @@
+#!/bin/bash
+bestchol=$((16#WATER + 16#STIR))
